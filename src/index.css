@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+
+@tailwind utilities;
+
+.h1 {
+    font-family: 'Bebas Neue', sans-serif;
+}
+.h2 {
+    font-family: 'Poppins', sans-serif;
+}
