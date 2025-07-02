@@ -14,7 +14,7 @@ const CallToAction = () => {
           </p>
           <div>
             <button className="bg-black hover:bg-gray-900 transition px-8 py-4 rounded-md text-sm
-          uppercase font-semibold tracking-widest">
+          uppercase font-semibold tracking-widest cursor-pointer">
               Join Now
             </button>
           </div>
