@@ -30,7 +30,7 @@ const Hero = () => {
         </div>
 
         <div className="mt-12 md:mt-0">
-          <FaDumbbell className="text-red-600 w-40 h-40 md:w-56 md:h-56 animate-pulse" />
+          <FaDumbbell className="text-red-600 w-40 h-40 md:w-60 md:h-56 animate-pulse" />
         </div>
       </section>
     </Element>
